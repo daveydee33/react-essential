@@ -1,0 +1,26 @@
+{
+  "name": "react_essential",
+  "version": "1.0.0",
+  "description": "Following this. https://www.lynda.com/React-js-tutorials/Pure-React/496905/573026-4.html",
+  "main": "index.js",
+  "scripts": {
+    "start": "httpster -p 3333",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daveydee33/react-essential.git"
+  },
+  "author": "Dave Degeatano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daveydee33/react-essential/issues"
+  },
+  "homepage": "https://github.com/daveydee33/react-essential#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}
